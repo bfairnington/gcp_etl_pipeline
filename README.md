@@ -1,4 +1,4 @@
-A functioning extract-transform-load (ETL) data pipeline created to work with Google Cloud Platform (GCP). The setup does not use infrastructure as code (IAC) so the setup would have to be carried out manually in GCP. This includes the following:
+An extract-transform-load (ETL) data pipeline created to work with Google Cloud Platform (GCP). The setup does not use infrastructure as code (IAC) so the setup would have to be carried out manually in GCP. This includes the following:
 
 - Raw data Google Cloud Storage bucket (to hold the raw data .csv files)
 - Transformed data Google Cloud Storage bucket (to hold the transformed data .csv files)
